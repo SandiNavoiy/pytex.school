@@ -1,2 +1,1 @@
-# pytex.school
-pytex.school
+class 
